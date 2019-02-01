@@ -2,7 +2,7 @@ package Items;
 
 public class Weapons extends items {
     String[] giveWeapons = {
-            "Raggity Stick",//What the player is equipped with
+            "Broken Stick",//What the player is equipped with
             "Knights Blade",
             "Adequate Sword",
             "BFF Sword",
